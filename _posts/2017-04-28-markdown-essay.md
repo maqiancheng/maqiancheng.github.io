@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "markdown-essay"
+title: "markdown随笔"
 date: 2017-04-28
 tag: markdown,atom
 ---   
 
 this is H1
 ==========
-this is H2
-----------
 
-# this is H1
+# this is H1  
+
 ## this is H2
 
 > this is a blockquote  
@@ -25,6 +24,8 @@ this is H2
 * green
 * blue
 
+***
+
 - red
 - green
 - blue
@@ -32,7 +33,6 @@ this is H2
 1. red
 2. green
 3. blue
-
 
 * A list item with a blockquote
   > This is a blockquote
