@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "java随笔"
+title: "c随笔"
 date: 2017-04-28
-tag: java
+tag: c
 ---   
