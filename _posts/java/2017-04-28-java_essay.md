@@ -4,7 +4,8 @@ title: "索引失效"
 date: 2017-04-28
 tag: java
 ---   
-###SQL优化避免索引失效  
+
+### SQL优化避免索引失效  
 1.对查询进行优化，应尽量避免全表扫描，首先应该考虑在where及order by涉及的列上建立索引。  
 2.应该避免在where子句中对字段进行null值判断，否则将导致引擎放弃索引而进行全表扫描，如：  
 select id from t where num is null;  
